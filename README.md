@@ -1,6 +1,8 @@
-# EventCameraCompaniesCN
-整理国内事件相机公司/企业。不间断更新。
+# 国内事件相机相关公司与企业
+整理国内事件相机公司/企业。不间断更新。  
+**相关链接**：[国内事件相机研究团队](https://github.com/LarryDong/EventCameraGroupsCN)  
 
+<br>
 
 ## 芯仑科技
 **KeyWords**：国内首个事件相机  
@@ -28,6 +30,7 @@
 - [重磅！签约南方科技大学，“锐思智芯-深港微电子学院联合实验室”正式成立 ](https://mp.weixin.qq.com/s/pA3zYCMqXCCmucWzhgiJcQ)
 - [聚焦事件视觉传感器 |「锐思智芯-山东大学联合实验室」正式落成](https://mp.weixin.qq.com/s?__biz=MzkzNzI2OTg2Nw==&mid=2247483855&idx=1&sn=62992f3e0fa14b7d7a49518aa44b25b1&chksm=c2934ecbf5e4c7dde6e408f10545e0d67f6839e1221709ce2cfcd8de8b991b41121288f37e4a&scene=21#wechat_redirect)
 
+<br>
 
 # 声明
 本文仅用于行业交流，本人与上述任何公司企业无任何利益相关。资料全部来自网络，如有错误，请联系修改/删除。
