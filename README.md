@@ -39,6 +39,15 @@
 - [芯鼎科技与Prophesee合作开发基于事件的视觉感测器AI方案](https://www.icatchtek.com/NewsContent/01d98deb5403498f897da0957c5a604a)
 
 
+## 九天睿芯 Reexen
+**Keywords**：感存算一体  
+**创始人**：刘洪杰  
+**官网**：[http://reexen.com/](http://reexen.com/)  
+**官方介绍**：深圳市九天睿芯科技有限公司由多名海内外顶尖高校博士联合创始，18年总部成立于深圳，已搭建完成近50人研发团队，均是来自于intel，高通等海内外名企，先后成立深圳，成都，上海，瑞士四个办公点。神经拟态感存算一体架构是集成电路后“摩尔”时代新型架构之一，九天睿芯芯片基于类脑计算，以模数混和形式，实现感存算一体芯片的研发落地，量产销售。成立三年完成融资近亿，销售额近5000万，立志做智能时代的感存算架构芯片引领者。  
+**News**:
+- [九天睿芯首款视觉应用的感存算一体新型架构计算芯片流片成功](http://www.reexen.com/index.php/2021/12/17/http-reexen-com-wp-admin-post-phppost280actionedit/)
+- [专注于神经拟态感存算一体芯片研发，「九天睿芯」获亿元级A轮融资](http://www.reexen.com/index.php/2021/12/17/http-reexen-com-wp-admin-post-phppost273actionedit/)
+
 <br>
 
 # 声明
