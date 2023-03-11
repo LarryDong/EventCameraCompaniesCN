@@ -48,6 +48,17 @@
 - [九天睿芯首款视觉应用的感存算一体新型架构计算芯片流片成功](http://www.reexen.com/index.php/2021/12/17/http-reexen-com-wp-admin-post-phppost280actionedit/)
 - [专注于神经拟态感存算一体芯片研发，「九天睿芯」获亿元级A轮融资](http://www.reexen.com/index.php/2021/12/17/http-reexen-com-wp-admin-post-phppost273actionedit/)
 
+
+## 脉冲视觉 Spikesee
+
+**Keywords**: Vidar视觉，Spike Camera（和事件相机不完全相同。Spike Camera是超高帧率输出完整图像帧，表示整幅图中的亮度变换，而不是DVS只输出个别像素）    
+**官网**: [https://www.spikevision.cn/](https://www.spikevision.cn/)  
+**官方介绍**: Vidar是一种全新的脉冲视觉智能技术，它颠覆了视频概念，将视觉系统从帧频这个速度“天花板”解放出来。不同于传统相机，基于视达模型的脉冲相机的每个像素独立，不需在特定时刻一起成像，自行记录光线变化，将光信号转换成0和1组成的数字比特流，所有像素的比特流按照空间排布组成的流阵列，准确刻画了传感器视窗采集到的一段时间内光线变化的物理过程，Vidar技术有望重塑包括表示、编码、检测、跟踪、识别在内的整个视觉信息处理体系。Vidar技术的芯片和系统可广泛应用于高铁、电力、风电和工业检测等行业高速检测需求，也可以用于车路协同、自动驾驶等实时响应场景，同时也用于高速手机摄像头，提升主摄成像质量，记录高速运动过程。   
+**News**:
+- [北大重大原始创新项目“超高速脉冲相机”亮相国家“十三五”科技创新成就展](https://baijiahao.baidu.com/s?id=1714842190053271699&wfr=spider&for=pc)
+
+
+
 <br>
 
 # 声明
